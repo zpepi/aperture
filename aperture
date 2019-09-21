@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<link rel="stylesheet"
+   type="text/css"
+   href="aperture.css" />
+<style>
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+</style> 
+<header id="header">
+  <center>We do what we must.<br>Because we can.</center>
+  <nav id="nav-bar">
+    <ul>
+      <li><a href=#video>About</a></li>
+      <li><a href=#column1>Products</a></li>
+      <li><a href=#form>Contact</a></li>
+    </ul>
+      </nav>
+    
+  <div id="header-image">
+    <img src="https://ih1.redbubble.net/image.193427355.8407/flat,550x550,075,f.jpg"><style> max-height: 25%; max-width: 33%;</style></div>
+   
+    <div id="video">
+     <center><iframe width="560" height="315" src="https://www.youtube.com/embed/0qcED35LL8I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+     
+ <div class=specials>
+   <center>On Sale Now:</center>
+    <div id=column1>
+      <center><img src=https://ih1.redbubble.net/image.193425774.8342/flat,800x800,075,f.jpg height="150"><br>Companion Cube</br><br><small>The Weighted Companion Cube will never threaten to stab you and, in fact, cannot speak.</br><strong>50% off!</strong></div>
+      
+    <div id=column2>
+      <center><img src=https://orig00.deviantart.net/3b15/f/2012/201/2/4/portalgun_by_idze-d57x5hb.jpg height="150"></center>
+      <center>Portal Device</br><br><small>A hand-held device which has the ability to manufacture two linked portals.</small><br><strong>25% off!</strong>
+      </div>
+      
+    <div id=column3>  
+      <center><img src=http://vignette4.wikia.nocookie.net/advancedweaponiser/images/5/50/Item_513.png/ height="150"><br>Long Fall Boots</br><br><small>Like a suit of armor for your Portal Device.</small><br><strong>10% off!</strong></center></div>
+ <br>
+      
+ <form id="form">
+   <center><strong>Test <strike>for</strike> with us</strong>!<br><small>enter your e-mail: <input id="email" placeholder="cave.johnson@aperture.com">
+     <button><a href=mailto:https://www.freecodecamp.com/email-submit>Submit</button>
+     </center></div>
